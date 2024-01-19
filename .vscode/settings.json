@@ -1,3 +1,4 @@
 {
-    "editor.fontFamily": "jetbrains mono nl regular"
+	"editor.fontFamily": "Iosevka, Operator mono lig, JetBrains Mono, Monaspace Neon, Maple Mono, MonoLisa, Ubuntu Mono, DejaVu Sans Mono, Fira Code, monoki, Hasklig, PragmataPro, IBM Plex Mono, Victor Mono, Roboto Mono, monospace",
+	"editor.fontSize": 19
 }
